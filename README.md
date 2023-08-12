@@ -9,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaradhana-patnaik-43b987152" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="90" height="50" alt="linkedin"/></a>
-<a href="https://www.leetcode.com/aaradhana98" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5" alt="aaradhana98" height="70" width="110" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
