@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaradhana Patnaik</h1>
 <h3 align="center">Pursuing M.Tech in Computer Science at IIIT, Hyderabad</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FNishika-khatri&psig=AOvVaw1Ne6EvHWwv2bMnqmlM_bSM&ust=1706813839413000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDyn5aniIQDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6b2c2aa0d470088d4a692ffcc251ea550562ca44845d2c9ee1bc5506af234e23/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966">
 
 - 📫 How to reach me **aaradhana98@gmail.com**
 
